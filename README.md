@@ -25,7 +25,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "https://Sindhu.github.io/vistara/";
+    char url[] = "https://sindhuja9585.github.io/vistara/";
     char key[] = "secretkey"; // Simple key for XOR encryption
 
     printf("Original URL: %s\n", url);
